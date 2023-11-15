@@ -1,0 +1,4 @@
+{
+  "method": "device.onnamechanged",
+  "result": "NEW-DEVICE-NAME-1"
+}
